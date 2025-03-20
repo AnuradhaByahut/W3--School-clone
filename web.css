@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    background-color:white;
+    justify-content: left;
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+background-color: #282a35;
+}
+.w3{
+    background-image: url("w3schol.jpg");
+    height: 30px;
+    width: 50px;
+  
+    background-size: cover;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    background-color: white; 
+    border: none;
+   line-height: 70px;
+}
+.tutorial-border{
+    display: inline;
+}
+.main:hover{
+    background-color: green;
+}
+
+.main1{
+    height: 100%;
+    width: 100%;  
+    background-color: white; 
+    border: none;
+    line-height: 70px;
+    
+}
+
+.main1:hover{
+    background-color: green;
+}
+
+.main2{
+    height: 100%;
+    width: 100%;
+    background-color: white; 
+    border: none;
+    line-height: 70px;
+    
+}
+.main2:hover{
+    background-color: green;
+}
+
+.main3{
+    height: 100%;
+    width: 100%;
+    margin-inline-start: 5px;
+    background-color: white; 
+    line-height: 70px;
+    border: none;
+   
+}
+.main3:hover{
+    background-color: green;
+}
+.boot-icon i{
+    font-size: 30px;
+    color: purple;
+}
+.boot-icon{
+    padding: 5px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-inline-start: 300px;
+    display: flex;
+   
+}
+
+.add-boot{
+    font-size: 1.5rem;
+
+}
+  
+.boot-icon:hover{
+    background-color:  gray;
+}
+
+.space-icon i{
+    font-size: 30px;
+    color: rgb(4, 128, 0);
+}
+.space-icon{
+display: flex;
+}
+
+.space-icon{
+    padding: 5px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.space-icon:hover{
+    background-color: gray;
+    
+}
+    
+.add-space{
+    font-size: 1.5rem;
+}
+
+
+.container{
+    display: flex;
+    width: 150px;
+    border-radius: 30px;
+}
+.signin{
+    background-color: rgb(0, 128, 0);
+    padding: 5px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.signup{
+    background-color: wtite;
+    padding: 5px;
+}
+.container:hover{
+    background-color: rgba(1, 90, 23, 0.395);
+}
+.panel{
+    height: 30px;
+    width: 100%;
+     display: flex;
+     font-family: Arial;
+     color: white;
+     margin-inline-end: 5px;
+     justify-content: space-evenly;
+}
+
+.html{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+   
+}
+
+.html:hover{
+    background-color: black
+}
+
+.html1{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+   
+}
+
+.html1:hover{
+    background-color: black;
+}
+
+.html2{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+}
+
+.html2:hover{
+    background-color: black;
+}
+
+.html3{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+}
+
+.html3:hover{
+    background-color: black;
+}
+
+.html4{
+    height: 20px;
+    width: 60px;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.html4:hover{
+    background-color: black;
+}
+
+.html5{
+    height: 20px;
+    width: 90px;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.html5:hover{
+    background-color: black;
+}
+
+.html6{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.html6:hover{
+    background-color: black;
+}
+.html7{
+    height: 30px;
+    width: 40px;
+    padding: 10px;
+}
+
+.html7:hover{
+    background-color: black;
+}
+.html8{
+    height: 20px;
+    width: 90px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.html8:hover{
+    background-color: black;
+}
+.html9{
+    height: 20px;
+    width: 50px;
+    padding: 10px;
+   margin-inline-start: 25px;
+}
+
+.html9:hover{
+    background-color: black;
+}
+.html10{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+    margin-inline-start: 10px;
+}
+
+.html10:hover{
+    background-color: black;
+}
+.html11{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+    margin-inline-start: 10px;
+}
+
+.html11:hover{
+    background-color: black;
+}
+.html12{
+    height: 20px;
+    width: 40px;
+    padding: 10px;
+    margin-inline-end: 200px;
+}
+
+.html12:hover{
+    background-color: black;
+}
+.l{
+    font-size: 60px;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+
+}
+.w{
+    font-size: 30px;
+    color: pink;
+    text-align: center;
+    padding-top: 20px;
+}
+.search-bar{
+    height: 60px;
+    width: 500px;
+    margin-inline-start: 400px;
+    background-color: azure;
+    align-items: center;
+border-top-right-radius: 40px;
+border-bottom-right-radius: 40px;
+border-top-left-radius: 40px;
+border-bottom-left-radius: 40px;
+    margin-top: 60px;
+
+}
+.inside-bar{
+    width: 100%;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+         padding: 15px;
+         font-size: 1.5rem;
+         color: gray;
+         border: none;
+}
+.search-icon{
+    height: 60px;
+    width:180px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+border-top-right-radius: 40px;
+border-bottom-right-radius: 40px;
+    background-color: green;
+}
+.search-bar{
+    text-align: center;
+    display: flex;
+}
+.a{ 
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+
+}
+.a:hover{
+    color: rgb(36, 128, 0);
+}
+.space-icon2 i{
+    height: 60px;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.space-icon2:hover{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
